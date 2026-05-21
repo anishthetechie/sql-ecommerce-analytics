@@ -221,6 +221,4 @@ sql-ecommerce-analytics/
 - The dataset is synthetic and seeded for reproducibility — it is **not** real
   customer data.
 
----
 
-*Built as a portfolio project to demonstrate analytical SQL on PostgreSQL.*
