@@ -9,6 +9,12 @@ segmentation, cohort retention, churn, lifetime value, and product performance.
 Every query in this repo has been executed against **PostgreSQL 16** and the
 outputs below are real results from the generated data.
 
+### 🔴 [Live interactive dashboard →](https://sql-ecommerce-dashboard.vercel.app)
+
+Charts of every analysis **plus a live SQL playground** — a full PostgreSQL
+database runs in your browser (via PGlite/WASM) so you can run the queries
+yourself. No setup, nothing sent to a server.
+
 > **Why this project?** It's built to show breadth of practical SQL — not just
 > `SELECT ... GROUP BY`, but window functions, recursive CTEs, RFM scoring,
 > cohort triangles, and a materialized view backed by a PL/pgSQL function —
